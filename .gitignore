@@ -1,0 +1,30 @@
+# exclude everything jpg
+*.jpg
+
+# exclude ext folder
+/ext/*
+
+# exclude all jpg file in images forlder
+/images/*.jpg
+
+# Compiled Java class files
+*.class
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# Package files
+*.jar
+
+# Maven
+target/
+dist/
+
+# JetBrains IDE
+.idea/
+
+# Unit test reports
+TEST*.xml
