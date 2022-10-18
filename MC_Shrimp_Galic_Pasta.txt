@@ -42,8 +42,11 @@ Allergy Warning:
 1. Olive oil
 2. Parsley
 3. Prawn
+<<<<<<< HEAD
 4. Cheese
 5. Garlic
+=======
+>>>>>>> WithRebate
 
 Great Wine Pairings
 1. Sauvignon Blanc
