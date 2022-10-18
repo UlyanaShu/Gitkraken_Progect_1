@@ -3,10 +3,10 @@ Tiramisu
 
 Menu Class: Dessert
 
+Recipe by U Shubin
+
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarpone and dusted with cocoa powder. This will become your new favorite dessert.
-
-Recipe by Ulyana
 
 Servings: 6
 
